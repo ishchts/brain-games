@@ -16,7 +16,7 @@ const getGameData = () => {
   const hiddenNumIndex = generateNumber(0, length - 1);
   const correctAnswer = progression[hiddenNumIndex].toString();
 
-  progression[hiddenNumIndex] = ' .. ';
+  progression[hiddenNumIndex] = '..';
 
   const question = progression.join(' ');
 
