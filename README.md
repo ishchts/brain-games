@@ -28,3 +28,12 @@ brain-gcd
 Example:
 
 [![brain-gcd](https://asciinema.org/a/sMWF41A6O19Bp0eCltIeO99ql.svg)](https://asciinema.org/a/sMWF41A6O19Bp0eCltIeO99ql)
+
+```
+brain-progression
+```
+
+Example:
+
+[![brain-calc](https://asciinema.org/a/SEKfldccTzPfXzeyjlgKMUsUO.svg)](https://asciinema.org/a/SEKfldccTzPfXzeyjlgKMUsUO)
+
