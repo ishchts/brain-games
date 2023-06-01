@@ -37,3 +37,10 @@ Example:
 
 [![brain-calc](https://asciinema.org/a/SEKfldccTzPfXzeyjlgKMUsUO.svg)](https://asciinema.org/a/SEKfldccTzPfXzeyjlgKMUsUO)
 
+```
+brain-prime
+```
+
+Example:
+
+[![brain-prime](https://asciinema.org/a/2wS8HzhUOxTqPYVUsdtnvYuGQ.svg)](https://asciinema.org/a/2wS8HzhUOxTqPYVUsdtnvYuGQ)
