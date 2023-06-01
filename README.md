@@ -21,3 +21,10 @@ Example:
 
 [![brain-calc](https://asciinema.org/a/boPMCXacMooX4bbEQ10Omtta2.svg)](https://asciinema.org/a/boPMCXacMooX4bbEQ10Omtta2)
 
+```
+brain-gcd
+```
+
+Example:
+
+[![brain-gcd](https://asciinema.org/a/sMWF41A6O19Bp0eCltIeO99ql.svg)](https://asciinema.org/a/sMWF41A6O19Bp0eCltIeO99ql)
