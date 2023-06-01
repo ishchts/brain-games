@@ -13,4 +13,11 @@ Example:
 
 [![brain-even](https://asciinema.org/a/qJysMFhALRJSeMpWisjhkJthe.svg)](https://asciinema.org/a/qJysMFhALRJSeMpWisjhkJthe)
 
+```
+brain-calc
+```
+
+Example:
+
+[![brain-calc](https://asciinema.org/a/boPMCXacMooX4bbEQ10Omtta2.svg)](https://asciinema.org/a/boPMCXacMooX4bbEQ10Omtta2)
 
