@@ -1,6 +1,6 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/ishchts/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/ishchts/frontend-project-44/actions)
-[![Maintainability](https://api.codeclimate.com/v1/badges/256ab7dec65e1a1dc99d/maintainability)](https://codeclimate.com/github/Il1ya1/frontend-project-lvl4/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/581d5ab7da9a0f300f53/maintainability)](https://codeclimate.com/github/ishchts/brain-games/maintainability)
 
 ### Games
 
